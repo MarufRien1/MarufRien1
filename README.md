@@ -18,6 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MarufRien1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
