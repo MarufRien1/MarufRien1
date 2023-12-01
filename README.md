@@ -24,7 +24,7 @@ JSON         15 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+[![wakatime](https://wakatime.com/badge/user/36e55cf3-dba0-48f7-b937-d22d49ab5556.svg)](https://wakatime.com/@36e55cf3-dba0-48f7-b937-d22d49ab5556)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarufRien1&icon=0&color=0)](https://visitcount.itsvg.in)
