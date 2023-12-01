@@ -14,6 +14,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Coding Journey 🚀
+
+#### this week:
 <!--START_SECTION:waka-->
 
 ```txt
@@ -24,6 +27,8 @@ JSON         15 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+
+#### 🕒 Total Coding Hours: 
 [![wakatime](https://wakatime.com/badge/user/36e55cf3-dba0-48f7-b937-d22d49ab5556.svg)](https://wakatime.com/@36e55cf3-dba0-48f7-b937-d22d49ab5556)
 
 ---
