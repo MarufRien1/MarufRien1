@@ -20,8 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   47 mins         ████████████████████████▓   98.80 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Kotlin   37 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
