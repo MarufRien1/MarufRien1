@@ -20,8 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       20 hrs 25 mins  █████████████████████████   99.99 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Kotlin                 17 hrs 12 mins  ████████████████████████▒   97.96 %
+Prolog                 20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Smali                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
