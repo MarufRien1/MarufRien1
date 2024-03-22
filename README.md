@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 6 hrs 32 mins   ███████████████████████▓░   94.78 %
-Prolog                 20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Smali                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Kotlin                 5 hrs 2 mins    ███████████████████████▒░   93.34 %
+Prolog                 20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Smali                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
