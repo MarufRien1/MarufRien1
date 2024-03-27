@@ -20,9 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 6 mins          ████████████████████████░   96.38 %
-Shrinker Config File   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Prolog                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
