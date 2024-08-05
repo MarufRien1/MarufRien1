@@ -20,7 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart              1 hr 41 mins    ████████████████████▓░░░░   83.06 %
+Groovy            10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+XML               5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Kotlin            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Java Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
