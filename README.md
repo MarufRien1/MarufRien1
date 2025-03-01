@@ -20,9 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   46 mins         ███████████████████▒░░░░░   77.43 %
-Kotlin       13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Kotlin   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
