@@ -20,11 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin              1 hr 37 mins    ██████████████████▒░░░░░░   73.70 %
-TOML                25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 %
-Python              5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Gradle Kotlin DSL   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Properties          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
