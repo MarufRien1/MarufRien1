@@ -20,9 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTTP         47 mins         ████████████░░░░░░░░░░░░░   48.07 %
-Prisma       46 mins         ███████████▓░░░░░░░░░░░░░   46.90 %
-TypeScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Prisma   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
